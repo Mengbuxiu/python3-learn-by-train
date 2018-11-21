@@ -30,7 +30,7 @@ def produce_link(dict):
     return con
 
 
-#   local = r"C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Bookmarks" win7
+#   local = r"C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"     # win7
 local = r"C:\Users\Lenovo\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"      # win10
 
 # with open(local, 'r') as f:
